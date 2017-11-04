@@ -16,11 +16,12 @@
 title: Gianni Galbiati
 email:
 description:
-  This is Gianni's personal site. Welcome!
+  This is Gianni's site. Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://galbiati.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: galbiati
+linkedin_username: gianni-galbiati
 
 # Build settings
 markdown: kramdown
