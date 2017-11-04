@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Deep learning & data science.
+Data science, deep learning, Bayes
